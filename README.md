@@ -71,7 +71,7 @@ if __name__ == '__main__':
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white">  
 <img src="https://img.shields.io/badge/TCP/IP-004A80?style=flat&logo=gnometerminal&logoColor=white">  
 <img src="https://img.shields.io/badge/Networking-0078D7?style=flat&logo=windows-terminal&logoColor=white">
-<img src="https://img.shields.io/badge/Networking-0078D7?style=flat&logo=windows-terminal&logoColor=white">
+<img src="https://img.shields.io/badge/Topology-Virtual%20Lab-0078D7?style=flat&logo=windows-terminal&logoColor=white">
     
 </p>
 
