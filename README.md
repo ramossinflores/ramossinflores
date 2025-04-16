@@ -23,9 +23,8 @@ if __name__ == '__main__':
 </h1>
 <ul>
   <li><strong>Estudiante de Administración de Sistemas y Redes</strong></li>
-  <li>Apasionada por la administración de sistemas, redes, virtualización y cloud computing</li>
+  <li>Apasionada por la administración de sistemas, virtualización y cloud computing</li>
   <li>Explorando automatización con Python y administración de servidores Linux & Windows</li>
-  <li>Entusiasta de redes con certificaciones CCNA</li>
 </ul>
 
 ---
@@ -52,7 +51,7 @@ if __name__ == '__main__':
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white">  
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">  
 <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat&logo=linux&logoColor=white">  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">  
+<img src="https://img.shields.io/badge/Containerlab-Network%20Emulation-blue?style=flat&logo=docker&logoColor=white">  
 </p>
 
 <h3>
@@ -71,7 +70,9 @@ if __name__ == '__main__':
 <p>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white">  
 <img src="https://img.shields.io/badge/TCP/IP-004A80?style=flat&logo=gnometerminal&logoColor=white">  
-<img src="https://img.shields.io/badge/Networking-0078D7?style=flat&logo=windows-terminal&logoColor=white">  
+<img src="https://img.shields.io/badge/Networking-0078D7?style=flat&logo=windows-terminal&logoColor=white">
+<img src="https://img.shields.io/badge/Networking-0078D7?style=flat&logo=windows-terminal&logoColor=white">
+    
 </p>
 
 <h3>
