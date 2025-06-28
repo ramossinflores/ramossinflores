@@ -22,9 +22,9 @@ if __name__ == '__main__':
   Hola, soy <em>Laura Ramos Granados</em>
 </h1>
 <ul>
-  <li><strong>Estudiante de Administración de Sistemas y Redes</strong></li>
-  <li>Apasionada por la administración de sistemas, virtualización y cloud computing</li>
-  <li>Explorando automatización con Python y administración de servidores Linux & Windows</li>
+  <li><strong>SysAdmin recién titulada</strong></li>
+  <li>DevOs en formación</li>
+  <li>Explorando automatización con Python y administración en la nube</li>
 </ul>
 
 ---
@@ -84,6 +84,16 @@ if __name__ == '__main__':
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">  
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white">  
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white">  
+</p>
+
+<h3>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="20"> Cloud Computing
+</h3>
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">  
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">  
+<img src="https://img.shields.io/badge/Cloud%20Security-FF6D00?style=flat&logo=cloudflare&logoColor=white">  
+<img src="https://img.shields.io/badge/IaaS%2FPaaS-SaaS%20Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white">
 </p>
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZwNzQ0MHBtYjRkdmFnZmswdGpqeTVtZHNuMGRyeHExdW5yOWI4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9b0dPTdwIw7mJggFTA/giphy.gif" width="250">
