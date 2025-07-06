@@ -29,22 +29,16 @@ if __name__ == '__main__':
 
 ---
 
-<h2>
-  <img src="https://media.giphy.com/media/MZRYQAay0x22a1Nt0w/giphy.gif" width="25"> Tecnologías y Herramientas
-</h2>
+<h2>Tecnologías y Herramientas</h2>
 
-<h3>
-  <img src="https://media.giphy.com/media/VhzmzGwhdx7rXW8Rhl/giphy.gif" width="20"> Lenguajes de Programación
-</h3>
+<h3>Lenguajes de Programación</h3>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">  
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">  
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">  
 </p>
-<h3>
-  <img src="https://media.giphy.com/media/VGK9fcWUoKlkHtU9L7/giphy.gif" width="20"> Herramientas y Frameworks
-</h3>
+<h3>Herramientas y Frameworks</h3>
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">  
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">  
@@ -54,9 +48,7 @@ if __name__ == '__main__':
 <img src="https://img.shields.io/badge/Containerlab-Network%20Emulation-blue?style=flat&logo=docker&logoColor=white">  
 </p>
 
-<h3>
-  <img src="https://media.giphy.com/media/LkTxzv2zBPBY3fruSJ/giphy.gif" width="20"> Virtualización e Infraestructura
-</h3>
+<h3>Virtualización e Infraestructura</h3>
 <p>
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white">  
 <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white">  
@@ -64,9 +56,7 @@ if __name__ == '__main__':
 <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white">  
 </p>
 
-<h3>
-  <img src="https://media.giphy.com/media/mDGE9eimMyNE07QzKu/giphy.gif" width="20"> Redes y Seguridad
-</h3>
+<h3>Redes y Seguridad</h3>
 <p>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white">  
 <img src="https://img.shields.io/badge/TCP/IP-004A80?style=flat&logo=gnometerminal&logoColor=white">  
@@ -75,9 +65,7 @@ if __name__ == '__main__':
     
 </p>
 
-<h3>
-  <img src="https://media.giphy.com/media/lrn0Cp4T2af8L28EJm/giphy.gif" width="20"> Sistemas Operativos
-</h3>
+<h3>Sistemas Operativos</h3>
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">  
@@ -86,9 +74,7 @@ if __name__ == '__main__':
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white">  
 </p>
 
-<h3>
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="20"> Cloud Computing
-</h3>
+<h3>Cloud Computing</h3>
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">  
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">  
