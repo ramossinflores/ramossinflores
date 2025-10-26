@@ -23,7 +23,6 @@ if __name__ == '__main__':
 </h1>
 <ul>
   <li><strong>SysAdmin recién titulada</strong></li>
-  <li>DevOs en formación</li>
   <li>Explorando automatización con Python y administración en la nube</li>
 </ul>
 
